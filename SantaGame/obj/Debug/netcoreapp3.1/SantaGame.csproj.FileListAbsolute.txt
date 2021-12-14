@@ -1,0 +1,16 @@
+C:\Users\opilane\source\repos\LOGitpe21\SantaGame\SantaGame\bin\Debug\netcoreapp3.1\SantaGame.exe
+C:\Users\opilane\source\repos\LOGitpe21\SantaGame\SantaGame\bin\Debug\netcoreapp3.1\SantaGame.deps.json
+C:\Users\opilane\source\repos\LOGitpe21\SantaGame\SantaGame\bin\Debug\netcoreapp3.1\SantaGame.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGitpe21\SantaGame\SantaGame\bin\Debug\netcoreapp3.1\SantaGame.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGitpe21\SantaGame\SantaGame\bin\Debug\netcoreapp3.1\SantaGame.dll
+C:\Users\opilane\source\repos\LOGitpe21\SantaGame\SantaGame\bin\Debug\netcoreapp3.1\SantaGame.pdb
+C:\Users\opilane\source\repos\LOGitpe21\SantaGame\SantaGame\obj\Debug\netcoreapp3.1\SantaGame.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGitpe21\SantaGame\SantaGame\obj\Debug\netcoreapp3.1\SantaGame.Form1.resources
+C:\Users\opilane\source\repos\LOGitpe21\SantaGame\SantaGame\obj\Debug\netcoreapp3.1\SantaGame.Properties.Resources.resources
+C:\Users\opilane\source\repos\LOGitpe21\SantaGame\SantaGame\obj\Debug\netcoreapp3.1\SantaGame.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\LOGitpe21\SantaGame\SantaGame\obj\Debug\netcoreapp3.1\SantaGame.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGitpe21\SantaGame\SantaGame\obj\Debug\netcoreapp3.1\SantaGame.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGitpe21\SantaGame\SantaGame\obj\Debug\netcoreapp3.1\SantaGame.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGitpe21\SantaGame\SantaGame\obj\Debug\netcoreapp3.1\SantaGame.dll
+C:\Users\opilane\source\repos\LOGitpe21\SantaGame\SantaGame\obj\Debug\netcoreapp3.1\SantaGame.pdb
+C:\Users\opilane\source\repos\LOGitpe21\SantaGame\SantaGame\obj\Debug\netcoreapp3.1\SantaGame.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SantaGame", "SantaGame\SantaGame.csproj", "{9E5A365A-C4BA-4BC2-A3F2-5C42CA21132B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E5A365A-C4BA-4BC2-A3F2-5C42CA21132B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E5A365A-C4BA-4BC2-A3F2-5C42CA21132B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E5A365A-C4BA-4BC2-A3F2-5C42CA21132B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E5A365A-C4BA-4BC2-A3F2-5C42CA21132B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C0F210E-E27D-4C6E-9AED-0E504E02D572}
+	EndGlobalSection
+EndGlobal
